@@ -29,7 +29,7 @@ const Hero = () => {
           opacity: 0.8, // Set opacity value as needed
         }}>
           <div className="container mt-28 mx-auto text-center text-white">
-            <h1 className="sm:text-5xl text-3xl font-extrabold md:mb-16 mb-10">The Perfect Dine For You</h1>
+            <h1 className="sm:text-5xl text-3xl font-extrabold md:mb-16 mb-10">The Perfect Diner For You</h1>
             <p className="text-xl  font-bold mb-12">Good food .. Good life</p>
             {/* <a href="#" className="bg-[#9b7b32]  text-white py-4 px-12 rounded-full hover:bg-[#755e26] hover:cursor-pointer">Learn More</a> */}
           </div>

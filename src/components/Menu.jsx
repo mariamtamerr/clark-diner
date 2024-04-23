@@ -160,7 +160,7 @@ const Menu = () => {
         >
           <div className="cirle border border-[#3b4f34] w-20 md:w-24 lg:w-28 lg:h-28 rounded-full p-5">
             <Image
-              src="	https://maisonthomas.net/backend/public/images/categories/1698046329.png"
+              src="/meals.png"
               alt="meals"
               width={62}
               height={62}
